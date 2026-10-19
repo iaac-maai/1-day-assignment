@@ -46,19 +46,6 @@ The final notebook will distinguish questions answered with statistical evidence
 
 The dataset includes variables such as AI usage hours per day, AI tools, AI purpose, productivity score, accuracy rating, satisfaction score, weekly time saved, monthly AI cost, income, and user type.
 
-### Supporting datasets
-
-Additional datasets are being considered to provide built-environment context. Their inclusion and analytical role will be confirmed after the team’s analysis is finalized.
-
-| Dataset | Purpose | Status |
-|---|---|---|
-| Barcelona housing | Potential urban and housing context | To confirm |
-| Concrete | Potential construction materials context | To confirm |
-| Energy efficiency | Potential building performance context | To confirm |
-| Accommodation affordability | Potential housing affordability context | To confirm |
-
-Each included supporting dataset will have its source, licence, and analytical role documented. These datasets will not be described as merged unless a validated merge is performed.
-
 ## Repository structure
 
 The intended final repository structure is:
