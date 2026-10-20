@@ -426,3 +426,26 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# IAAC AI Methods I - Python and Jupyter
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Downloaded datasets (keep the folder placeholder)
+data/*
+!data/.gitkeep
+
+# Credentials
+.env
+.env.*
+kaggle.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Important: do not ignore figures/ or PNG plots.
